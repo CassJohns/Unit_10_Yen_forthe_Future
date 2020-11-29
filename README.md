@@ -1,16 +1,19 @@
 # Unit_10_Yen_forthe_Future
 
-![Yen Photo](Images/unit-10-readme-photo.png)
+![Yen Photo](Yen.jpg)
 
 #### Time-Series Forecasting
 
 **1. Based on your time series analysis, would you buy the yen now?**
+
 A: I would buy the yen now.  It's projected to increase as shown by various models, however this increase has a high degree of risk and volatility. 
 
 **2. Is the risk of the yen expected to increase or decrease?**
+
 A: The risk of the yen is expected to increase as shown by the increased volatility in the GARCH model. 
 
 **3. Based on the model evaluation, would you feel confident in using these models for trading?**
+
 A: Not for an extended period of time.  The model could potentially predict short term changes but would not be good for a trading tool to project long-term price changes. 
 
 #### Linear Regression Forecasting
